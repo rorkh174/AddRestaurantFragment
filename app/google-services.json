@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832685084220",
+    "project_id": "addrestaurantfragment-bfcd4",
+    "storage_bucket": "addrestaurantfragment-bfcd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832685084220:android:bcb5424833257b8b3ffd39",
+        "android_client_info": {
+          "package_name": "com.example.addrestaurantfragment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ArA9GudJv-3QO_XWalyUntheewK16nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
